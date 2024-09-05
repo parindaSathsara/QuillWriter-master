@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066586016474",
+    "project_id": "quillwriter-32372",
+    "storage_bucket": "quillwriter-32372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066586016474:android:c9f86c0496a15ce809b3e3",
+        "android_client_info": {
+          "package_name": "com.example.quilwriterfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066586016474-t2ng5ersh2g9d4rhbdg4lq711skru9gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn5BV2OhGWVeOrJdPN1Vtx9e_XjkHpV4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066586016474-t2ng5ersh2g9d4rhbdg4lq711skru9gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
